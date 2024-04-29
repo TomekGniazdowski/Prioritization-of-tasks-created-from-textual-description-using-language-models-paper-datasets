@@ -6,7 +6,7 @@ Marek Bazan, Tomasz Gniazdowski, Maciej Marchwiany
 April 2024; _JT Weston_, Warsaw; _Wrocław University of Science and Technology_, Wrocław
 
 ## Info
-The repository contains anonimized "Real Dataset" and translated "Enron Dataset" used as part of the research carried out for the article. 
+The repository contains anonimized "Real Dataset" and translated "Enron Dataset" used as part of the research carried out for the article. __Datasets are available only for reaserch purposes.__
 
 ## Dataset masks
 To use the data, you need to replace the masks with random, various values. Used masks are:
