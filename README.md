@@ -1,5 +1,5 @@
 # Prioritization-of-tasks-created-from-textual-description-using-language-models-paper-datasets
-_Prioritization of tasks created from textual description using language models_ [[paper]()].
+_Prioritization of tasks created from textual description using language models_ [[paper](https://www.sciencedirect.com/science/article/pii/S1877050924023305)].
 
 Marek Bazan, Tomasz Gniazdowski, Maciej Marchwiany
 
